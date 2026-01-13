@@ -30,7 +30,6 @@ The dataset contains anonymized customer marketing data, including:
 - Campaign acceptance
 - Customer spending behavior
 
-*Dataset not included in this repository.*
 
 ## Analysis Workflow
 1. **Data Preparation**
