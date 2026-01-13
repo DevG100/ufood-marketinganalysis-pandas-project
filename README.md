@@ -8,6 +8,9 @@ Using exploratory data analysis (EDA) and visualization, the goal is to translat
 ## Raw Data
 - [Download ufood_marketing_raw.csv](u_food_marketing.csv)
 
+## Completed Jupytr Notebook
+- [Download ufood_marketing_raw.csv]
+
 ## Key Questions
 - Which age groups generate the highest spending?
 - Which customer segments are most likely to accept marketing campaigns?
