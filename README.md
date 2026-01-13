@@ -9,7 +9,7 @@ Using exploratory data analysis (EDA) and visualization, the goal is to translat
 - [Download ufood_marketing_raw.csv](u_food_marketing.csv)
 
 ## Completed Jupytr Notebook
-- [Download ufood_marketing_raw.csv]
+- [Download ufood_marketing_raw.csv](Food Marketing Pandas Project.ipynb)
 
 ## Key Questions
 - Which age groups generate the highest spending?
