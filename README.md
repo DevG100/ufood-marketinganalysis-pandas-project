@@ -6,7 +6,7 @@ This project analyzes customer and marketing campaign data from **UFood**, a foo
 Using exploratory data analysis (EDA) and visualization, the goal is to translate raw customer data into **actionable marketing recommendations**.
 
 ## Raw Data
-- [Download ufood_marketing_raw.csv](ufood_marketing_raw.csv)
+- [Download ufood_marketing_raw.csv](u_food_marketing.csv)
 
 ## Key Questions
 - Which age groups generate the highest spending?
