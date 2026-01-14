@@ -66,9 +66,9 @@ The dataset contains anonymized customer marketing data, including:
 ### Campaign Acceptance by Age Group
 ![Accepted Campaigns by Age Group](accepted_campaigns_by_age.png)
 
-![Percentage of Accepted Campaigns by Age Group](figures/percentage_accepted_campaigns_by_age.png)
+![Percentage of Accepted Campaigns by Age Group](percentage_accepted_campaigns_by_age.png)
 
-![Percentage of Accepted Campaigns by Age Group (Alternate)](figures/percentage_accepted_capaigns_age_group.png)
+![Percentage of Accepted Campaigns by Age Group (Alternate)](percentage_accepted_capaigns_age_group.png)
 
 These visualizations show that younger customers (ages **23–30**) accept campaigns at a higher rate, while middle-aged customers represent a larger share of overall spending but are less responsive.
 
@@ -77,15 +77,15 @@ These visualizations show that younger customers (ages **23–30**) accept campa
 ### Spending Behavior by Demographic Group
 
 #### Amount Spent per Age Group
-![Amount Spent per Age Group](figures/amount_spent_per_group.png)
+![Amount Spent per Age Group](amount_spent_per_group.png)
 
 #### Spending by Marital Status
-![Spending by Marital Status](figures/mnt_marital_status.png)
+![Spending by Marital Status](mnt_marital_status.png)
 
-![Spending by Marital Status (Bar Chart)](figures/mnt_marital_status_bar.png)
+![Spending by Marital Status (Bar Chart)](mnt_marital_status_bar.png)
 
 #### Spending by Household Composition
-![Spending by Children in Household](figures/mnt_children.png)
+![Spending by Children in Household](mnt_children.png)
 
 These plots highlight that **customers without children** and those who are **married, single, or together** generate the most revenue.
 
