@@ -64,7 +64,7 @@ The dataset contains anonymized customer marketing data, including:
 ## Visual Analysis & Insights
 
 ### Campaign Acceptance by Age Group
-![Accepted Campaigns by Age Group](figures/accepted_campaigns_by_age.png)
+![Accepted Campaigns by Age Group](accepted_campaigns_by_age.png)
 
 ![Percentage of Accepted Campaigns by Age Group](figures/percentage_accepted_campaigns_by_age.png)
 
