@@ -90,7 +90,7 @@ These plots highlight that **customers without children** and those who are **ma
 ---
 
 ### Sales Channel Performance
-![Sales Channel Spending](figures/sums_channel.png)
+![Sales Channel Spending](sums_channel.png)
 
 This visualization compares customer spending across different sales channels, revealing important trade-offs between volume and effectiveness.
 
