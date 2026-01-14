@@ -79,7 +79,6 @@ These visualizations show that younger customers (ages **23–30**) accept campa
 ![Amount Spent per Age Group](amount_spent_per_group.png)
 
 #### Spending by Marital Status
-![Spending by Marital Status](mnt_marital_status.png)
 
 ![Spending by Marital Status (Bar Chart)](mnt_marital_status_bar.png)
 
