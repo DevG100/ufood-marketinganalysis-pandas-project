@@ -68,7 +68,6 @@ The dataset contains anonymized customer marketing data, including:
 
 ![Percentage of Accepted Campaigns by Age Group](percentage_accepted_campaigns_by_age.png)
 
-![Percentage of Accepted Campaigns by Age Group (Alternate)](percentage_accepted_capaigns_age_group.png)
 
 These visualizations show that younger customers (ages **23–30**) accept campaigns at a higher rate, while middle-aged customers represent a larger share of overall spending but are less responsive.
 
